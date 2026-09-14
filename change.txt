@@ -1,0 +1,1 @@
+this is my final app, but i want , at the initial phase the fps box unchecked, also if a user checked the box and save, even if he closes the app or shut down the pc , its saves its status , when reopen the setting remain same
